@@ -1,0 +1,13 @@
+eab5fe9af646ae339721d668ceed72b0 *DESCRIPTION
+8baa2fd9af6a6f34cc91510cce714526 *NAMESPACE
+0f0538697b04aaabde97ccc21dc1439b *R/covCSE.r
+8faf5e14d5f7859d3d7e7fd78191f515 *R/covKCD.r
+c7d92d6693ac1e6929f42c5904208c50 *R/utils.r
+a72f6b558785158688ea1c32fb8733c4 *man/ca2cm.Rd
+fafb02d635830bbfdda19c6c5c103f44 *man/cm2ca.Rd
+190227c98640ff9fa34684bc4b8c2769 *man/covCSE.Rd
+ea8029850c02d29e3bf07a07558cacf7 *man/covKCD.Rd
+ef6069ec20a34519e694a0cf0a02b04e *man/lmvgamma.Rd
+77969d046b6b69a9fc1105d1a28bdde2 *man/mcov.Rd
+3062b2e9060a22848693bc235f0c65bd *man/msqrt.Rd
+56adee16e89b474cc592da9c05fc4880 *man/msqrtInv.Rd
